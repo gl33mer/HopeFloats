@@ -16,7 +16,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Hope Floats! (Thans to Brad)</title>
+	<title>Hope Floats! ( Thanks to Brad <3aI3< )</title>
 	<link href="css/bootstrap.css" rel="stylesheet">
 	<link href="css/bootstrap-responsive.css" rel="stylesheet">
 	
